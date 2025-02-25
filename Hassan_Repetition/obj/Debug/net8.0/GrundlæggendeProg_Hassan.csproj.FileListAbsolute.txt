@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Skrivebord\Proggrammering\Study-projects\GrundlæggendeProg_Hassan\GrundlæggendeProg_Hassan\bin\Debug\net8.0\GrundlæggendeProg_Hassan.exe
+C:\Users\User\OneDrive\Skrivebord\Proggrammering\Study-projects\GrundlæggendeProg_Hassan\GrundlæggendeProg_Hassan\bin\Debug\net8.0\GrundlæggendeProg_Hassan.deps.json
+C:\Users\User\OneDrive\Skrivebord\Proggrammering\Study-projects\GrundlæggendeProg_Hassan\GrundlæggendeProg_Hassan\bin\Debug\net8.0\GrundlæggendeProg_Hassan.runtimeconfig.json
+C:\Users\User\OneDrive\Skrivebord\Proggrammering\Study-projects\GrundlæggendeProg_Hassan\GrundlæggendeProg_Hassan\bin\Debug\net8.0\GrundlæggendeProg_Hassan.dll
+C:\Users\User\OneDrive\Skrivebord\Proggrammering\Study-projects\GrundlæggendeProg_Hassan\GrundlæggendeProg_Hassan\bin\Debug\net8.0\GrundlæggendeProg_Hassan.pdb
+C:\Users\User\OneDrive\Skrivebord\Proggrammering\Study-projects\GrundlæggendeProg_Hassan\GrundlæggendeProg_Hassan\obj\Debug\net8.0\GrundlæggendeProg_Hassan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Skrivebord\Proggrammering\Study-projects\GrundlæggendeProg_Hassan\GrundlæggendeProg_Hassan\obj\Debug\net8.0\GrundlæggendeProg_Hassan.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Skrivebord\Proggrammering\Study-projects\GrundlæggendeProg_Hassan\GrundlæggendeProg_Hassan\obj\Debug\net8.0\GrundlæggendeProg_Hassan.AssemblyInfo.cs
+C:\Users\User\OneDrive\Skrivebord\Proggrammering\Study-projects\GrundlæggendeProg_Hassan\GrundlæggendeProg_Hassan\obj\Debug\net8.0\GrundlæggendeProg_Hassan.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Skrivebord\Proggrammering\Study-projects\GrundlæggendeProg_Hassan\GrundlæggendeProg_Hassan\obj\Debug\net8.0\GrundlæggendeProg_Hassan.sourcelink.json
+C:\Users\User\OneDrive\Skrivebord\Proggrammering\Study-projects\GrundlæggendeProg_Hassan\GrundlæggendeProg_Hassan\obj\Debug\net8.0\GrundlæggendeProg_Hassan.dll
+C:\Users\User\OneDrive\Skrivebord\Proggrammering\Study-projects\GrundlæggendeProg_Hassan\GrundlæggendeProg_Hassan\obj\Debug\net8.0\refint\GrundlæggendeProg_Hassan.dll
+C:\Users\User\OneDrive\Skrivebord\Proggrammering\Study-projects\GrundlæggendeProg_Hassan\GrundlæggendeProg_Hassan\obj\Debug\net8.0\GrundlæggendeProg_Hassan.pdb
+C:\Users\User\OneDrive\Skrivebord\Proggrammering\Study-projects\GrundlæggendeProg_Hassan\GrundlæggendeProg_Hassan\obj\Debug\net8.0\GrundlæggendeProg_Hassan.genruntimeconfig.cache
+C:\Users\User\OneDrive\Skrivebord\Proggrammering\Study-projects\GrundlæggendeProg_Hassan\GrundlæggendeProg_Hassan\obj\Debug\net8.0\ref\GrundlæggendeProg_Hassan.dll
