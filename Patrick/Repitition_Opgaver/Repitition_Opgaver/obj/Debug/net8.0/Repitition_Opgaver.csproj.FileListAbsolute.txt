@@ -1,0 +1,14 @@
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Patrick\Repitition_Opgaver\Repitition_Opgaver\bin\Debug\net8.0\Repitition_Opgaver.exe
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Patrick\Repitition_Opgaver\Repitition_Opgaver\bin\Debug\net8.0\Repitition_Opgaver.deps.json
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Patrick\Repitition_Opgaver\Repitition_Opgaver\bin\Debug\net8.0\Repitition_Opgaver.runtimeconfig.json
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Patrick\Repitition_Opgaver\Repitition_Opgaver\bin\Debug\net8.0\Repitition_Opgaver.dll
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Patrick\Repitition_Opgaver\Repitition_Opgaver\bin\Debug\net8.0\Repitition_Opgaver.pdb
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Patrick\Repitition_Opgaver\Repitition_Opgaver\obj\Debug\net8.0\Repitition_Opgaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Patrick\Repitition_Opgaver\Repitition_Opgaver\obj\Debug\net8.0\Repitition_Opgaver.AssemblyInfoInputs.cache
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Patrick\Repitition_Opgaver\Repitition_Opgaver\obj\Debug\net8.0\Repitition_Opgaver.AssemblyInfo.cs
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Patrick\Repitition_Opgaver\Repitition_Opgaver\obj\Debug\net8.0\Repitition_Opgaver.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Patrick\Repitition_Opgaver\Repitition_Opgaver\obj\Debug\net8.0\Repitition_Opgaver.dll
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Patrick\Repitition_Opgaver\Repitition_Opgaver\obj\Debug\net8.0\refint\Repitition_Opgaver.dll
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Patrick\Repitition_Opgaver\Repitition_Opgaver\obj\Debug\net8.0\Repitition_Opgaver.pdb
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Patrick\Repitition_Opgaver\Repitition_Opgaver\obj\Debug\net8.0\Repitition_Opgaver.genruntimeconfig.cache
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Patrick\Repitition_Opgaver\Repitition_Opgaver\obj\Debug\net8.0\ref\Repitition_Opgaver.dll
