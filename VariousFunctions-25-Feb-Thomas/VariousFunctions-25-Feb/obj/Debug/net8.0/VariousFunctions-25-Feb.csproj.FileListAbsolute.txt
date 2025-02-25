@@ -1,0 +1,15 @@
+C:\Users\Thoma\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Kode\VariousFunctions-25-Feb\VariousFunctions-25-Feb\obj\Debug\net8.0\VariousFunctions-25-Feb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thoma\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Kode\VariousFunctions-25-Feb\VariousFunctions-25-Feb\obj\Debug\net8.0\VariousFunctions-25-Feb.AssemblyInfoInputs.cache
+C:\Users\Thoma\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Kode\VariousFunctions-25-Feb\VariousFunctions-25-Feb\obj\Debug\net8.0\VariousFunctions-25-Feb.AssemblyInfo.cs
+C:\Users\Thoma\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Kode\VariousFunctions-25-Feb\VariousFunctions-25-Feb\obj\Debug\net8.0\VariousFunctions-25-Feb.csproj.CoreCompileInputs.cache
+C:\Users\Thoma\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Kode\VariousFunctions-25-Feb\VariousFunctions-25-Feb\obj\Debug\net8.0\VariousFunctions-25-Feb.sourcelink.json
+C:\Users\Thoma\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Kode\VariousFunctions-25-Feb\VariousFunctions-25-Feb\bin\Debug\net8.0\VariousFunctions-25-Feb.exe
+C:\Users\Thoma\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Kode\VariousFunctions-25-Feb\VariousFunctions-25-Feb\bin\Debug\net8.0\VariousFunctions-25-Feb.deps.json
+C:\Users\Thoma\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Kode\VariousFunctions-25-Feb\VariousFunctions-25-Feb\bin\Debug\net8.0\VariousFunctions-25-Feb.runtimeconfig.json
+C:\Users\Thoma\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Kode\VariousFunctions-25-Feb\VariousFunctions-25-Feb\bin\Debug\net8.0\VariousFunctions-25-Feb.dll
+C:\Users\Thoma\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Kode\VariousFunctions-25-Feb\VariousFunctions-25-Feb\bin\Debug\net8.0\VariousFunctions-25-Feb.pdb
+C:\Users\Thoma\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Kode\VariousFunctions-25-Feb\VariousFunctions-25-Feb\obj\Debug\net8.0\VariousFunctions-25-Feb.dll
+C:\Users\Thoma\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Kode\VariousFunctions-25-Feb\VariousFunctions-25-Feb\obj\Debug\net8.0\refint\VariousFunctions-25-Feb.dll
+C:\Users\Thoma\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Kode\VariousFunctions-25-Feb\VariousFunctions-25-Feb\obj\Debug\net8.0\VariousFunctions-25-Feb.pdb
+C:\Users\Thoma\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Kode\VariousFunctions-25-Feb\VariousFunctions-25-Feb\obj\Debug\net8.0\VariousFunctions-25-Feb.genruntimeconfig.cache
+C:\Users\Thoma\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Kode\VariousFunctions-25-Feb\VariousFunctions-25-Feb\obj\Debug\net8.0\ref\VariousFunctions-25-Feb.dll

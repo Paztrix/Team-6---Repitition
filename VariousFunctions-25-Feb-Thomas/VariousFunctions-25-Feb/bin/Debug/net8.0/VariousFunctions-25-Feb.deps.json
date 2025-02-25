@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VariousFunctions-25-Feb/1.0.0": {
+        "runtime": {
+          "VariousFunctions-25-Feb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VariousFunctions-25-Feb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
